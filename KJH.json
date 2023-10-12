@@ -5,7 +5,7 @@
         "InternalName":  "BossMod",
         "AssemblyVersion":  "0.0.0.92",
         "Description":  "A bunch of utilities to simplify bosses. Currently supports endwalker content. ***very early alpha, use at your own risk***",
-        "ApplicableVersion":  "2023.09.08.0000.0000",
+        "ApplicableVersion":  "2023.09.07.0000.0000",
         "RepoUrl":  "https://github.com/awgil/ffxiv_bossmod",
         "DalamudApiLevel":  8,
         "LoadRequiredState":  0,
